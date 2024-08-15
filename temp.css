@@ -34,19 +34,19 @@
 .box h1{
     padding-top: 30px;
     padding-bottom: 5px;
-    font-size: 40px;
+    font-size: 2em;
     text-transform: uppercase;
 }
 .box p{
     margin-top: 10px;
-    font-size: 25px;
+    font-size: 1.4rem;
     margin-bottom: 10px;
 }
 .box h2{
-    font-size: 35px;
+    font-size: 1.5rem;
 }
 .box a{
-    font-size: 25px;
+    font-size: 1.4rem;
     text-decoration: none;
     border: 1px solid black;
     background-color: rgba(62, 59, 218, 0.616);
@@ -69,18 +69,18 @@
     .box h1{
         padding-top: 30px;
         padding-bottom: 5px;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
     .box p{
-        font-size: 3rem;
+        font-size: 1.5rem;
         padding-bottom: 0px;
     }
     .box h2{
-        font-size: 3rem;
+        font-size: 1.5rem;
         padding-bottom: 5px;
     }
     .box a{
-        font-size: 3rem;
+        font-size: 1.5rem;
     }
 }
 
@@ -96,18 +96,18 @@
     .box h1{
         padding-top: 30px;
         padding-bottom: 5px;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
     .box p{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         padding-bottom: 0px;
     }
     .box h2{
-        font-size: 1.5rem;
+        font-size: 1.4rem;
         padding-bottom: 5px;
     }
     .box a{
-        font-size: 1.5rem;
+        font-size: 1.4rem;
     }
 }
 
@@ -123,18 +123,18 @@
     .box h1{
         padding-top: 30px;
         padding-bottom: 5px;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
     .box p{
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         padding-bottom: 0px;
     }
     .box h2{
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         padding-bottom: 5px;
     }
     .box a{
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
 }
 

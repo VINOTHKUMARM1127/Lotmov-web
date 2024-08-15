@@ -9,14 +9,15 @@
     font-family: 'Gill Sans';
 }
 :root{
-    --primary-color:rgb(247, 253, 255);
+    --primary-color:#f5f5f7;
     --secondary-color: hsla(0, 0%, 0%, 0.904);
-    --bar-white:rgba(121, 142, 212, 0.884);
+    /* --bar-white:rgba(121, 142, 212, 0.884); */
+    --bar-white:#2997ff;
 }
 .dark-mode{
-    --primary-color:hsl(0, 1%, 14%);
-    --secondary-color: hsl(0, 30%, 96%);
-    --bar-white:hsla(0, 0%, 55%, 0.473);
+    --primary-color:#141414;
+    --secondary-color: #f5f5f7;
+    --bar-white:#333333;
 }
 body{
     background: var(--primary-color);
@@ -26,6 +27,9 @@ body{
 
 .head{
     min-height: 100vh;
+}
+nav h1{
+    font-size: 1.6rem;
 }
 #icon{
     font-size: 35px;
@@ -111,12 +115,12 @@ img{
     text-align: center;
 }
 #active{
-    background-color: rgb(74, 65, 155);
+    background-color:var(--bar-white);
     color: var(--secondary-color);
 }
 .switch a{
     color: var(--secondary-color);
-    font-size: 25px;
+    font-size: 1rem;
     padding: 11px;
     margin-right: 20px;
     text-decoration: none;
