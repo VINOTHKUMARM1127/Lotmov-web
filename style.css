@@ -230,10 +230,9 @@ img{
     }
 
     nav ul li a{
-        background-color: var(--primary-color);
         border-radius: .5rem;
         padding: .3rem .6rem;
-        border: 1px solid black;
+        
     }
     nav ul li a:hover{
         color: white;
